@@ -1,0 +1,1 @@
+Global Tax Calculator\[CurrentScenarioYear]\[CurrentScenarioName]\Input\[ScenarioType]-OECD\OTPFXRates\[InstanceName]\[DatasetName]\OTP-FXRates_Orbitax.qnr
