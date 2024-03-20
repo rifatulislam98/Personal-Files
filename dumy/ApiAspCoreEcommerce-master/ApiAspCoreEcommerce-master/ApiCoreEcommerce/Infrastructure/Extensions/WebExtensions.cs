@@ -13,11 +13,11 @@ namespace ApiCoreEcommerce.Infrastructure.Extensions
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1)
                 .AddJsonOptions(options =>
                 {
-                    options.SerializerSettings.ContractResolver = new DefaultContractResolver
-                    {
-                        NamingStrategy = new SnakeCaseNamingStrategy()
-                    };
-                    options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
+                    //options.SerializerSettings.ContractResolver = new DefaultContractResolver
+                    //{
+                    //    NamingStrategy = new SnakeCaseNamingStrategy()
+                    //};
+                    //options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
                 });
         }
     }
