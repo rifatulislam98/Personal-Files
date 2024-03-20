@@ -6,7 +6,6 @@ namespace MongoDB_CRUD.Models
     public class Customer
     {
         [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
         [BsonElement("firstName")]
