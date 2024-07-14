@@ -1,0 +1,862 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlteryxTools/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "8.0.5",
+          "AlteryxGuiToolkit": "2024.1.1.17",
+          "System.Windows.Forms": "8.0.0.0"
+        },
+        "runtime": {
+          "AlteryxTools.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.5": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.524.21704"
+          }
+        }
+      },
+      "AlteryxGuiToolkit/2024.1.1.17": {
+        "runtime": {
+          "AlteryxGuiToolkit.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "System.Windows.Forms/8.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53105"
+          }
+        }
+      },
+      "SrcUtils_DotNet/2024.1.1.17": {
+        "runtime": {
+          "SrcUtils_DotNet.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "AlteryxCEFLib.Net/2024.1.1.17": {
+        "runtime": {
+          "AlteryxCEFLib.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "AlteryxDcm.Net/2024.1.1.17": {
+        "runtime": {
+          "AlteryxDcm.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "MindFusion.Diagramming/6.3.1.26557": {
+        "runtime": {
+          "MindFusion.Diagramming.dll": {
+            "assemblyVersion": "6.3.1.26557",
+            "fileVersion": "6.3.1.26557"
+          }
+        }
+      },
+      "AlteryxDocument/2024.1.1.17": {
+        "runtime": {
+          "AlteryxDocument.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "AyxSpiceRack/2024.1.1.17": {
+        "runtime": {
+          "AyxSpiceRack.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Telerik.WinControls.RadDock/9999.9.999.40": {
+        "runtime": {
+          "Telerik.WinControls.RadDock.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "Telerik.WinControls.SpellChecker/9999.9.999.40": {
+        "runtime": {
+          "Telerik.WinControls.SpellChecker.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "Telerik.WinControls.UI/9999.9.999.40": {
+        "runtime": {
+          "Telerik.WinControls.UI.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "Alteryx.Web.ServiceWrapper/2024.1.1.17": {
+        "runtime": {
+          "Alteryx.Web.ServiceWrapper.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Syncfusion.Tools.Windows/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Tools.Windows.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "MindFusion.Diagramming.WinForms/6.3.1.26558": {
+        "runtime": {
+          "MindFusion.Diagramming.WinForms.dll": {
+            "assemblyVersion": "6.3.1.26558",
+            "fileVersion": "6.3.1.26558"
+          }
+        }
+      },
+      "AlteryxDcm.MigrationTool/2024.1.1.17": {
+        "runtime": {
+          "AlteryxDcm.MigrationTool.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Base.Net/2024.1.1.17": {
+        "runtime": {
+          "Base.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Telerik.WinControls/9999.9.999.40": {
+        "runtime": {
+          "Telerik.WinControls.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "DataConnectors.Net/2024.1.1.17": {
+        "runtime": {
+          "DataConnectors.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "MindFusion.Common/1.3.0.26556": {
+        "runtime": {
+          "MindFusion.Common.dll": {
+            "assemblyVersion": "1.3.0.26556",
+            "fileVersion": "1.3.0.26556"
+          }
+        }
+      },
+      "AlteryxService_Client.Net/2024.1.1.17": {
+        "runtime": {
+          "AlteryxService_Client.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Xceed.Wpf.Toolkit/1.9.0.0": {
+        "runtime": {
+          "Xceed.Wpf.Toolkit.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "Allocate.Net/2024.1.1.17": {
+        "runtime": {
+          "Allocate.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Syncfusion.Edit.Windows/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Edit.Windows.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "SourceGrid/4.11.2903.20558": {
+        "runtime": {
+          "SourceGrid.dll": {
+            "assemblyVersion": "4.11.2903.20558",
+            "fileVersion": "4.11.2903.20558"
+          }
+        }
+      },
+      "Syncfusion.Grid.Windows/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Grid.Windows.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "Syncfusion.Shared.Base/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Shared.Base.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "MindFusion.Svg/1.2.0.26556": {
+        "runtime": {
+          "MindFusion.Svg.dll": {
+            "assemblyVersion": "1.2.0.26556",
+            "fileVersion": "1.2.0.26556"
+          }
+        }
+      },
+      "MindFusion.Diagramming.WinForms.Overview/6.3.1.26558": {
+        "runtime": {
+          "MindFusion.Diagramming.WinForms.Overview.dll": {
+            "assemblyVersion": "6.3.1.26558",
+            "fileVersion": "6.3.1.26558"
+          }
+        }
+      },
+      "DevAge.Windows.Forms/4.10.2903.20497": {
+        "runtime": {
+          "DevAge.Windows.Forms.dll": {
+            "assemblyVersion": "4.10.2903.20497",
+            "fileVersion": "4.10.2903.20497"
+          }
+        }
+      },
+      "System.IdentityModel.Tokens.Jwt/4.0.40306.1554": {
+        "runtime": {
+          "System.IdentityModel.Tokens.Jwt.dll": {
+            "assemblyVersion": "4.0.40306.1554",
+            "fileVersion": "4.0.4.54"
+          }
+        }
+      },
+      "Alteryx.Server.Common/2024.1.1.17": {
+        "runtime": {
+          "Alteryx.Server.Common.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Telerik.WinControls.GridView/9999.9.999.40": {
+        "runtime": {
+          "Telerik.WinControls.GridView.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "AyxExtensionEvents/2024.1.1.17": {
+        "runtime": {
+          "AyxExtensionEvents.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Python_DotNet/2024.1.1.17": {
+        "runtime": {
+          "Python_DotNet.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Solocast.Net/2024.1.1.17": {
+        "runtime": {
+          "Solocast.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "Composer.Net/2024.1.1.17": {
+        "runtime": {
+          "Composer.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "AlteryxPlugins.Net/2024.1.1.17": {
+        "runtime": {
+          "AlteryxPlugins.Net.dll": {
+            "assemblyVersion": "2024.1.1.17",
+            "fileVersion": "2024.1.1.17"
+          }
+        }
+      },
+      "System.Windows.Forms.Primitives/8.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.Primitives.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53105"
+          }
+        }
+      },
+      "Accessibility/4.0.0.0": {
+        "runtime": {
+          "Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "8.0.23.53105"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/8.0.0.0": {
+        "runtime": {
+          "System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Ionic.Zip.Reduced/1.9.1.5": {
+        "runtime": {
+          "Ionic.Zip.Reduced.dll": {
+            "assemblyVersion": "1.9.1.5",
+            "fileVersion": "1.9.1.5"
+          }
+        }
+      },
+      "ActiveDatabaseSoftware.ActiveQueryBuilder2/2.10.5.792": {
+        "runtime": {
+          "ActiveDatabaseSoftware.ActiveQueryBuilder2.dll": {
+            "assemblyVersion": "2.10.5.792",
+            "fileVersion": "2.10.5.792"
+          }
+        }
+      },
+      "0Harmony/2.2.1.0": {
+        "runtime": {
+          "0Harmony.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "ActiveDatabaseSoftware.ODBCMetadataProvider2/2.10.5.792": {
+        "runtime": {
+          "ActiveDatabaseSoftware.ODBCMetadataProvider2.dll": {
+            "assemblyVersion": "2.10.5.792",
+            "fileVersion": "2.10.5.792"
+          }
+        }
+      },
+      "ActiveDatabaseSoftware.OracleMetadataProvider2/2.10.5.792": {
+        "runtime": {
+          "ActiveDatabaseSoftware.OracleMetadataProvider2.dll": {
+            "assemblyVersion": "2.10.5.792",
+            "fileVersion": "2.10.5.792"
+          }
+        }
+      },
+      "ActiveDatabaseSoftware.OLEDBMetadataProvider2/2.10.5.792": {
+        "runtime": {
+          "ActiveDatabaseSoftware.OLEDBMetadataProvider2.dll": {
+            "assemblyVersion": "2.10.5.792",
+            "fileVersion": "2.10.5.792"
+          }
+        }
+      },
+      "MindFusion.Graphs/2.3.1.35487": {
+        "runtime": {
+          "MindFusion.Graphs.dll": {
+            "assemblyVersion": "2.3.1.35487",
+            "fileVersion": "2.3.1.35487"
+          }
+        }
+      },
+      "MindFusion.Scripting/1.0.0.0": {
+        "runtime": {
+          "MindFusion.Scripting.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MindFusion.Mapping/1.0.0.26556": {
+        "runtime": {
+          "MindFusion.Mapping.dll": {
+            "assemblyVersion": "1.0.0.26556",
+            "fileVersion": "1.0.0.26556"
+          }
+        }
+      },
+      "TelerikCommon/9999.9.999.40": {
+        "runtime": {
+          "TelerikCommon.dll": {
+            "assemblyVersion": "9999.9.999.40",
+            "fileVersion": "9999.9.999.40"
+          }
+        }
+      },
+      "AyxCSharpCryptoLib/2.0.2487.0": {
+        "runtime": {
+          "AyxCSharpCryptoLib.dll": {
+            "assemblyVersion": "2.0.2487.0",
+            "fileVersion": "2.0.2487.0"
+          }
+        }
+      },
+      "Syncfusion.SpellChecker.Base/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.SpellChecker.Base.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "Syncfusion.Shared.Windows/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Shared.Windows.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "Syncfusion.Grid.Base/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Grid.Base.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "Syncfusion.Tools.Base/20.2460.0.36": {
+        "runtime": {
+          "Syncfusion.Tools.Base.dll": {
+            "assemblyVersion": "20.2460.0.36",
+            "fileVersion": "20.2460.0.36"
+          }
+        }
+      },
+      "NLog/4.0.0.0": {
+        "runtime": {
+          "NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.7.10445"
+          }
+        }
+      },
+      "DevAge.Core/4.10.2903.20495": {
+        "runtime": {
+          "DevAge.Core.dll": {
+            "assemblyVersion": "4.10.2903.20495",
+            "fileVersion": "4.10.2903.20495"
+          }
+        }
+      },
+      "StructureMap/4.7.0.0": {
+        "runtime": {
+          "StructureMap.dll": {
+            "assemblyVersion": "4.7.0.0",
+            "fileVersion": "4.7.0.0"
+          }
+        }
+      },
+      "AntiXssLibrary/4.3.0.0": {
+        "runtime": {
+          "AntiXssLibrary.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "MongoDB.Bson/2.12.4.0": {
+        "runtime": {
+          "MongoDB.Bson.dll": {
+            "assemblyVersion": "2.12.4.0",
+            "fileVersion": "2.12.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlteryxTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n55wb6rL8YG254AG+SfQOSQencrcnpKAAcYyEcvBuO2pob7ltXuZ5skBBdvLJOLVPKd1Ya8+8ColIM5AtBo5ww==",
+      "path": "system.drawing.common/8.0.5",
+      "hashPath": "system.drawing.common.8.0.5.nupkg.sha512"
+    },
+    "AlteryxGuiToolkit/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SrcUtils_DotNet/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxCEFLib.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxDcm.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Diagramming/6.3.1.26557": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxDocument/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AyxSpiceRack/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.RadDock/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.SpellChecker/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.UI/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alteryx.Web.ServiceWrapper/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Tools.Windows/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Diagramming.WinForms/6.3.1.26558": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxDcm.MigrationTool/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Base.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataConnectors.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Common/1.3.0.26556": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxService_Client.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xceed.Wpf.Toolkit/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Allocate.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Edit.Windows/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SourceGrid/4.11.2903.20558": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Grid.Windows/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Shared.Base/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Svg/1.2.0.26556": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Diagramming.WinForms.Overview/6.3.1.26558": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevAge.Windows.Forms/4.10.2903.20497": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IdentityModel.Tokens.Jwt/4.0.40306.1554": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alteryx.Server.Common/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.GridView/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AyxExtensionEvents/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Python_DotNet/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solocast.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Composer.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlteryxPlugins.Net/2024.1.1.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms.Primitives/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessibility/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ionic.Zip.Reduced/1.9.1.5": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActiveDatabaseSoftware.ActiveQueryBuilder2/2.10.5.792": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "0Harmony/2.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActiveDatabaseSoftware.ODBCMetadataProvider2/2.10.5.792": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActiveDatabaseSoftware.OracleMetadataProvider2/2.10.5.792": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActiveDatabaseSoftware.OLEDBMetadataProvider2/2.10.5.792": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Graphs/2.3.1.35487": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Scripting/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindFusion.Mapping/1.0.0.26556": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelerikCommon/9999.9.999.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AyxCSharpCryptoLib/2.0.2487.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.SpellChecker.Base/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Shared.Windows/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Grid.Base/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Tools.Base/20.2460.0.36": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevAge.Core/4.10.2903.20495": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StructureMap/4.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AntiXssLibrary/4.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Bson/2.12.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dumy\\test\\test.csproj": {}
+    "C:\\Personal-Files\\dumy\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\dumy\\test\\test.csproj": {
+    "C:\\Personal-Files\\dumy\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dumy\\test\\test.csproj",
+        "projectUniqueName": "C:\\Personal-Files\\dumy\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\dumy\\test\\test.csproj",
+        "projectPath": "C:\\Personal-Files\\dumy\\test\\test.csproj",
         "packagesPath": "C:\\Users\\rifat.islam\\.nuget\\packages\\",
-        "outputPath": "C:\\dumy\\test\\obj\\",
+        "outputPath": "C:\\Personal-Files\\dumy\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rifat.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.23.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPf7HzJtlW3nEeyArzRn6F4xL4D2GFcgCFu5QW7Omaj+A3CHbgj3Xx1RbL1DU0BNhVxrjVTY3sTa+pfaKOSovw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal-Files\\dumy\\AlteryxTools\\AlteryxTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rifat.islam\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\rifat.islam\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
