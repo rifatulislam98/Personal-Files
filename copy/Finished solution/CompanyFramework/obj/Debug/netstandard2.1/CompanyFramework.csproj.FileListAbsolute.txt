@@ -1,0 +1,10 @@
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\bin\Debug\netstandard2.1\CompanyFramework.deps.json
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\bin\Debug\netstandard2.1\CompanyFramework.dll
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\bin\Debug\netstandard2.1\CompanyFramework.pdb
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.AssemblyInfoInputs.cache
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.AssemblyInfo.cs
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.csproj.CoreCompileInputs.cache
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.sourcelink.json
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.dll
+C:\Personal-Files\UnitTestingAspNetCoreWebApi\Finished solution\CompanyFramework\obj\Debug\netstandard2.1\CompanyFramework.pdb
